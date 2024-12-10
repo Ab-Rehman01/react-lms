@@ -1,8 +1,8 @@
 
-export default function Admin() {
+export default function Trainer() {
     return (
       <div>
-        <h1>Admin</h1>
+        <h1>Trainer</h1>
       </div>
     );
   }

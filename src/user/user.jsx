@@ -1,8 +1,8 @@
 
-export default function Admin() {
+export default function User() {
     return (
       <div>
-        <h1>Admin</h1>
+        <h1>User Panel</h1>
       </div>
     );
   }

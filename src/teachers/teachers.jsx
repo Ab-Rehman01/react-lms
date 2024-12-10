@@ -1,8 +1,8 @@
 
-export default function Admin() {
+export default function Teachers() {
     return (
       <div>
-        <h1>Admin</h1>
+        <h1>Teachers panel </h1>
       </div>
     );
   }
